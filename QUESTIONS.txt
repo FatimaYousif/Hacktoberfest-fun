@@ -4,17 +4,27 @@ Ans: No
 
 QUESTION:2
 What Python libraries do data scientists use the most?
+Pandas TensorFlow NumPy  
 
 QUESTION:3
 what keyword is used for making a function in Python?
+main
 Ans: def
+
+Def 
+main
 
 QUESTION:4
 Which python libraries are used in AI/ML?
+TensorFlow
 
 QUESTION:5
 Is python indent dependent?
+main
 Ans: Yes, python is indent dependent.
+
+Yes
+ main
 
 QUESTION:6
 Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
