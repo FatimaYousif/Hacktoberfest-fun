@@ -7,6 +7,7 @@ What Python libraries do data scientists use the most?
 
 QUESTION:3
 what keyword is used for making a function in Python?
+Ans: def
 
 QUESTION:4
 Which python libraries are used in AI/ML?
