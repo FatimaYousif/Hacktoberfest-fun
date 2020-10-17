@@ -4,7 +4,8 @@ Ans: No
 
 QUESTION:2
 What Python libraries do data scientists use the most?
-Ans: yes
+
+
 QUESTION:3
 what keyword is used for making a function in Python?
 
@@ -13,6 +14,7 @@ Which python libraries are used in AI/ML?
 
 QUESTION:5
 Is python indent dependent?
+Ans: yes
 
 QUESTION:6
 Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
