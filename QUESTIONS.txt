@@ -1,3 +1,4 @@
+ main
 QUESTION:1
 Are terminators necessary in Python?
 Ans: No
@@ -31,3 +32,52 @@ Name Google's ONLINE IDE to run Python scripts.
 QUESTION:10
 Is python open source language?
 
+=======
+QUESTION:1
+Are terminators necessary in Python?
+Ans: No
+idkk
+
+QUESTION:2
+What Python libraries do data scientists use the most?
+Pandas TensorFlow NumPy  
+idkk
+
+QUESTION:3
+what keyword is used for making a function in Python?
+main
+Ans: def
+idkk
+
+Def 
+main
+
+QUESTION:4
+Which python libraries are used in AI/ML?
+TensorFlow
+idkk
+
+QUESTION:5
+Is python indent dependent?
+main
+Ans: Yes, python is indent dependent.
+
+Yes
+ main
+
+QUESTION:6
+Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
+
+QUESTION:7
+Mention 3 important advantages of Python.
+
+QUESTION:8
+What IDE do you use for Python?
+
+QUESTION:9
+Name Google's ONLINE IDE to run Python scripts.
+
+QUESTION:10
+Is python open source language?
+
+ main
