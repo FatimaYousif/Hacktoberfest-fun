@@ -1,0 +1,30 @@
+QUESTION:1
+Are terminators necessary in Python?
+
+QUESTION:2
+What Python libraries do data scientists use the most?
+
+QUESTION:3
+what keyword is used for making a function in Python?
+
+QUESTION:4
+Which python libraries are used in AI/ML?
+
+QUESTION:5
+Is python indent dependent?
+
+QUESTION:6
+Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
+
+QUESTION:7
+Mention 3 important advantages of Python.
+
+QUESTION:8
+What IDE do you use for Python?
+
+QUESTION:9
+Name Google's ONLINE IDE to run Python scripts.
+
+QUESTION:10
+Is python open source language?
+
