@@ -14,6 +14,7 @@ Which python libraries are used in AI/ML?
 
 QUESTION:5
 Is python indent dependent?
+Ans: Yes, python is indent dependent.
 
 QUESTION:6
 Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
