@@ -99,3 +99,7 @@ ans: Yes
 QUESTION:6
 Print "HACKERTOBEFEST is AN AMAZING OPEN SOURCE CHALLENGE" in Python.
  main
+ 
+ QUESTION:10
+Is python open source language?
+ans: yes
