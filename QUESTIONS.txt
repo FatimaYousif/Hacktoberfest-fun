@@ -99,3 +99,25 @@ ans: Yes
 QUESTION:6
 Print "HACKERTOBEFEST is AN AMAZING OPEN SOURCE CHALLENGE" in Python.
  main
+
+==========
+QUESTION:1
+Are terminators necessary in Python?
+ans: no 
+
+QUESTION:2
+What Python libraries do data scientists use the most?
+ans: scrapy
+
+QUESTION:3
+what keyword is used for making a function in Python?
+ans:Function blocks begin with the keyword def followed by the function name and parentheses (()).
+
+
+QUESTION:4
+Which python libraries are used in AI/ML?
+ans:PyTorch
+
+QUESTION:5
+Is python indent dependent?
+Ans: yes
