@@ -81,3 +81,10 @@ QUESTION:10
 Is python open source language?
 
  main
+======
+QUESTION:2
+What Python libraries do data scientists use the most?
+Ans :Python has been built with extraordinary Python libraries that are used by programmers every day in solving problems.The most Common libraries thar data scientist used are 
+1) Pandas
+2) NumPy
+3) Matplotlib
