@@ -81,9 +81,18 @@ QUESTION:10
 Is python open source language?
 
  main
- =====
+ patch-3
+ 
  QUESTION:8
 What IDE do you use for Python?
 sublime 
 visual studio 
 PyCharm
+
+ 
+QUESTION:7
+Mention 3 important advantages of Python.
+1) Open Source with a Vibrant Community.
+2) Problems with Threading.
+3) Great for Prototypes - You Can Do More with Less Code
+ main
