@@ -96,3 +96,7 @@ Mention 3 important advantages of Python.
 2) Problems with Threading.
 3) Great for Prototypes - You Can Do More with Less Code
  main
+ 
+ QUESTION:10
+Is python open source language?
+ans: yes
