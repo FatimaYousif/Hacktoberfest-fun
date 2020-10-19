@@ -216,3 +216,6 @@ QUESTION:10
 Is python open source language?
 Answer: Yes
 
+QUESTION:10
+Is python open source language?
+Ans: yes
