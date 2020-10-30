@@ -1,4 +1,4 @@
- main
+﻿ main
 QUESTION:1
 Are terminators necessary in Python?
 Ans: No
@@ -223,3 +223,4 @@ Ans: No
 QUESTION:12
 what is the latest version of Python?
 Ans: Python 3.9.0, documentation released on 5 October 2020.
+hellonice tomeet you
