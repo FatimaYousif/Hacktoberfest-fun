@@ -4,32 +4,36 @@ Are terminators necessary in Python?
 Ans: No
 
 QUESTION:2
+is python is object oriented language??
+Ans:yes
+
+QUESTION:3
 What Python libraries do data scientists use the most?
 
 
-QUESTION:3
+QUESTION:4
 what keyword is used for making a function in Python?
 
-QUESTION:4
+QUESTION:5
 Which python libraries are used in AI/ML?
 
-QUESTION:5
+QUESTION:6
 Is python indent dependent?
 Ans: yes
 
-QUESTION:6
+QUESTION:7
 Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
 
-QUESTION:7
+QUESTION:8
 Mention 3 important advantages of Python.
 
-QUESTION:8
+QUESTION:9
 What IDE do you use for Python?
 
-QUESTION:9
+QUESTION:10
 Name Google's ONLINE IDE to run Python scripts.
 
-QUESTION:10
+QUESTION:11
 Is python open source language?
 
 =======
