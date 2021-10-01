@@ -36,170 +36,55 @@ Name Google's ONLINE IDE to run Python scripts.
 QUESTION:11
 Is python open source language?
 
-=======
-QUESTION:1
-Are terminators necessary in Python?
-Ans: No
-idkk
-
-QUESTION:2
+QUESTION:12
 What Python libraries do data scientists use the most?
 Pandas TensorFlow NumPy  
 idkk
 
-QUESTION:3
+QUESTION:13
 what keyword is used for making a function in Python?
 main
 Ans: def
-idkk
 
-Def 
-main
-
-QUESTION:4
+QUESTION:14
 Which python libraries are used in AI/ML?
 TensorFlow
-idkk
 
-QUESTION:5
+QUESTION:15
 Is python indent dependent?
-main
 Ans: Yes, python is indent dependent.
 
-Yes
- main
-
-QUESTION:6
+QUESTION:16
 Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
+Ans: print("HACKERTOBEFEST is AN AMAZING CHALLENGE")
 
-QUESTION:7
+QUESTION:17
 Mention 3 important advantages of Python.
 
-QUESTION:8
+QUESTION:18
 What IDE do you use for Python?
 
-QUESTION:9
+QUESTION:19
 Name Google's ONLINE IDE to run Python scripts.
 
-QUESTION:10
+QUESTION:20
 Is python open source language?
+Ans: Yes
 
- main
- ======
-QUESTION:7
+QUESTION:21
 Mention 3 important advantages of Python.
 1) Open Source with a Vibrant Community.
 2) Problems with Threading.
 3) Great for Prototypes - You Can Do More with Less Code
  patch-4
 
-QUESTION:10
-Is python open source language?
-ans: Yes 
-
-
- main
-
-QUESTION:6
-Print "HACKERTOBEFEST is AN AMAZING OPEN SOURCE CHALLENGE" in Python.
- main
-
-==========
-QUESTION:1
-Are terminators necessary in Python?
-Answer: Nope 
-
-QUESTION:2
-What Python libraries do data scientists use the most?
-Answer: TensorFlow
-
-QUESTION:3
-what keyword is used for making a function in Python?
-Answer: Functions start with "def" and the function name afterwards along with parenthesis "()" and colon ":" .
-def function_name():
-
-QUESTION:4
+QUESTION:22
 Which python libraries are used in AI/ML?
 ans:PyTorch
 
-QUESTION:5
+QUESTION:23
 Is python indent dependent?
 Ans: yes
-
-=======
-QUESTION:1
-Are terminators necessary in Python?
-Ans: No
-idkk
-
-QUESTION:2
-What Python libraries do data scientists use the most?
-Pandas TensorFlow NumPy  
-idkk
-
-QUESTION:3
-what keyword is used for making a function in Python?
-main
-Ans: def
-idkk
-
-Def 
-main
-
-QUESTION:4
-Which python libraries are used in AI/ML?
-TensorFlow
-idkk
-
-QUESTION:5
-Is python indent dependent?
-main
-Ans: Yes, python is indent dependent.
-
-Yes
- main
-
-QUESTION:6
-Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
-
-QUESTION:7
-Mention 3 important advantages of Python.
-
-QUESTION:8
-What IDE do you use for Python?
-
-QUESTION:9
-Name Google's ONLINE IDE to run Python scripts.
-
-QUESTION:10
-Is python open source language?
-
-==============
-QUESTION:1
-Are terminators necessary in Python?
-Answer: Nope 
-
-QUESTION:2
-What Python libraries do data scientists use the most?
-Answer: TensorFlow
-
-QUESTION:3
-what keyword is used for making a function in Python?
-Answer: Functions start with "def" and the function name afterwards along with parenthesis "()" and colon ":" .
-Example:  def function_name():
-
-QUESTION:4
-Which python libraries are used in AI/ML?
-Answer: TensorFlow
-
-QUESTION:5
-Is python indent dependent?
-main
-Answer: Yes, it's indent dependent.
-
-QUESTION:6
-Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
-Answer: print("HACKERTOBEFEST is AN AMAZING CHALLENGE")
 
 QUESTION:7
 Mention 3 important advantages of Python.
@@ -215,14 +100,6 @@ Answer: Sublime Text 3
 QUESTION:9
 Name Google's ONLINE IDE to run Python scripts.
 Answer: Google Cloud Shell
-
-QUESTION:10
-Is python open source language?
-Answer: Yes
-
-QUESTION:11
-Are terminators necessary in Python?
-Ans: No
 
 QUESTION:12
 what is the latest version of Python?
