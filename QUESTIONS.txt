@@ -38,6 +38,7 @@ Mention 3 important advantages of Python.
 
 QUESTION:8
 What IDE do you use for Python?
+textpad
 
 QUESTION:9
 Name Google's ONLINE IDE to run Python scripts.
