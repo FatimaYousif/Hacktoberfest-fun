@@ -74,6 +74,8 @@ Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
 
 QUESTION:7
 Mention 3 important advantages of Python.
+poisonous, raptile, and..
+Python bodies and blood are used for African traditional medicines and other belief uses as well, one in-depth study of all animals used by the Yorubas of Nigeria for traditional medicine found that the African Python is used to cure rheumatism, snake poison, appeasing witches, and accident prevention
 
 QUESTION:8
 What IDE do you use for Python?
@@ -173,6 +175,7 @@ Name Google's ONLINE IDE to run Python scripts.
 
 QUESTION:10
 Is python open source language?
+yup
 
 ==============
 QUESTION:1
