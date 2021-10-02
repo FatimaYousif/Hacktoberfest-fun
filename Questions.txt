@@ -36,6 +36,7 @@ Name Google's ONLINE IDE to run Python scripts.
 
 QUESTION:11
 Is python open source language?
+Ans: Yes
 
 =======
 QUESTION:1
