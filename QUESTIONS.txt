@@ -45,4 +45,4 @@ Name Google's ONLINE IDE to run Python scripts.
 
 QUESTION:10
 Is python open source language?
-
+yup
