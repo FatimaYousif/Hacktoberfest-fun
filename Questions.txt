@@ -9,7 +9,7 @@ Ans:yes
 
 QUESTION:3
 What Python libraries do data scientists use the most?
-
+Ans: TensorFlow, NumPy, SciPy, Matplotlib, Pandas,Keras
 
 QUESTION:4
 what keyword is used for making a function in Python?
