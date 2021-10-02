@@ -13,6 +13,7 @@ Ans: TensorFlow, NumPy, SciPy, Matplotlib, Pandas,Keras
 
 QUESTION:4
 what keyword is used for making a function in Python?
+Ans: def
 
 QUESTION:5
 Which python libraries are used in AI/ML?
