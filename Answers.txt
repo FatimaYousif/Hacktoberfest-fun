@@ -13,5 +13,9 @@ q: Initilize a variable in python
 a: var = "variable"
 
 q: How to add multi-line comments in python
-a: python doesn't support multi line comments.
-we have to comment each line individually.
+
+a: to add multi-line comments, use three """ and write your comment in between.
+ie: 
+"""
+multi-line comment
+"""
