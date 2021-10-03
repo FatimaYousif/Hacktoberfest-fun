@@ -5,3 +5,6 @@ ANSWERS FILE
 ##################
 
 Note: Answer the question given in Questions.txt file here along with the question.
+
+q: Initilize a variable in python
+a: var = "variable"
