@@ -4,4 +4,4 @@ ANSWERS FILE
 
 ##################
 
-Note: Answer the question given in question.txt file here along with the question.
+Note: Answer the question given in Questions.txt file here along with the question.
