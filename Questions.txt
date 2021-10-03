@@ -1,4 +1,27 @@
 ﻿ main
+
+UNANSWERED QUESTIONS:
+
+q: Initilize a variable in python
+q: Take inout from user in python
+q: Make a Python program that prints your name.
+q: Make a program that displays the lyrics of a song.
+q: Make a program that displays several numbers.
+q: Make a program that solves and shows the summation of 64 + 32.
+q: Make a program that asks the users preferred programming language.
+q: What is an expression?
+q: What is a variable?
+q: What is this (**) operator used for in python 
+q: What is a syntax error?
+q: How to add multi-line comments in python
+q: What is the difference between a parameter and an argument?
+q: What is scope?
+q: What is the difference between local and global variables?
+q: Can Python be used for robotics?
+
+
+---------------------------------------------------------------------------
+
 QUESTION:1
 Are terminators necessary in Python?
 Ans: No
@@ -15,29 +38,13 @@ QUESTION:4
 what keyword is used for making a function in Python?
 Ans: def
 
-QUESTION:5
-Which python libraries are used in AI/ML?
-
 QUESTION:6
 Is python indent dependent?
 Ans: yes
 
-QUESTION:7
-Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
-
-QUESTION:8
-Mention 3 important advantages of Python.
-
 QUESTION:9
 What IDE do you use for Python?
 Ans: PyCharm
-
-
-QUESTION:10
-Name Google's ONLINE IDE to run Python scripts.
-
-QUESTION:11
-Is python open source language?
 
 =======
 QUESTION:1
@@ -72,18 +79,6 @@ Ans: Yes, python is indent dependent.
 Yes
  main
 
-QUESTION:6
-Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
-
-QUESTION:7
-Mention 3 important advantages of Python.
-
-QUESTION:8
-What IDE do you use for Python?
-
-QUESTION:9
-Name Google's ONLINE IDE to run Python scripts.
-
 QUESTION:10
 Is python open source language?
 Answer: Python is open source software.
@@ -102,10 +97,6 @@ Is python open source language?
 ans: Yes 
 
 
- main
-
-QUESTION:6
-Print "HACKERTOBEFEST is AN AMAZING OPEN SOURCE CHALLENGE" in Python.
  main
 
 ==========
@@ -159,9 +150,7 @@ QUESTION:5
 Is python indent dependent?
 main
 Ans: Yes, python is indent dependent.
-
 Yes
- main
 
 QUESTION:6
 Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
@@ -169,8 +158,6 @@ Answer: To show things on the screen in python we use the print function
 example: print("Some String")
  for the example you gave: print("HACKERTOBEFEST is AN AMAZING CHALLENGE").
 
-QUESTION:7
-Mention 3 important advantages of Python.
 
 QUESTION:8
 What IDE do you use for Python?
@@ -242,6 +229,3 @@ QUESTION:12
 what is the latest version of Python?
 Ans: Python 3.9.0, documentation released on 5 October 2020.
 hellonice tomeet you
-
-QUESTION:13
-Can Python be used for robotics?
