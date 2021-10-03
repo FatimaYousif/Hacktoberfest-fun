@@ -4,4 +4,7 @@ ANSWERS FILE
 
 ##################
 
+q: Can Python be used for robotics?
+a: Yes, MicroPython has taken the robotics industry by storm. From Arduino to Raspberry Pi, lots of embedded systems and IoT systems are using Python, embedded systems are the founding pillars of robotics.
+
 Note: Answer the question given in Questions.txt file here along with the question.
