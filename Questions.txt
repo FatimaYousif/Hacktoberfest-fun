@@ -231,3 +231,7 @@ QUESTION:12
 what is the latest version of Python?
 Ans: Python 3.9.0, documentation released on 5 October 2020.
 hellonice tomeet you
+
+Qusetion:
+q: What is this (**) operator used for in python 
+Ans: Performs exponential (power) calculation on operators
