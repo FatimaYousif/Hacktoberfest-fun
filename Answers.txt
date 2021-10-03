@@ -11,3 +11,7 @@ Note: Answer the question given in Questions.txt file here along with the questi
 
 q: Initilize a variable in python
 a: var = "variable"
+
+q: How to add multi-line comments in python
+a: python doesn't support multi line comments.
+we have to comment each line individually.
