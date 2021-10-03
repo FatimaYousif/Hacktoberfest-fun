@@ -240,3 +240,6 @@ QUESTION:12
 what is the latest version of Python?
 Ans: Python 3.9.0, documentation released on 5 October 2020.
 hellonice tomeet you
+
+QUESTION:13
+Can Python be used for robotics?
