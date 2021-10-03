@@ -86,6 +86,7 @@ Name Google's ONLINE IDE to run Python scripts.
 
 QUESTION:10
 Is python open source language?
+Answer: Python is open source software.
 
  main
  ======
@@ -164,6 +165,9 @@ Yes
 
 QUESTION:6
 Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
+Answer: To show things on the screen in python we use the print function 
+example: print("Some String")
+ for the example you gave: print("HACKERTOBEFEST is AN AMAZING CHALLENGE").
 
 QUESTION:7
 Mention 3 important advantages of Python.
@@ -171,12 +175,17 @@ Mention 3 important advantages of Python.
 QUESTION:8
 What IDE do you use for Python?
 textpad
+Pycharm
+Visual Studio Code
+IDE python
 
 QUESTION:9
 Name Google's ONLINE IDE to run Python scripts.
+Answer: replit.com and onlinegdb.com are the best
 
 QUESTION:10
 Is python open source language?
+Answer: Python is open source software.
 
 ==============
 QUESTION:1
@@ -186,6 +195,7 @@ Answer: Nope
 QUESTION:2
 What Python libraries do data scientists use the most?
 Answer: TensorFlow
+Panda
 
 QUESTION:3
 what keyword is used for making a function in Python?
@@ -232,3 +242,6 @@ QUESTION:12
 what is the latest version of Python?
 Ans: Python 3.9.0, documentation released on 5 October 2020.
 hellonice tomeet you
+
+QUESTION:13
+Can Python be used for robotics?
