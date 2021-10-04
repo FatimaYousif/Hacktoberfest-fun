@@ -18,7 +18,6 @@ q: What is a syntax error?
 q: How to add multi-line comments in python
 q: What is the difference between a parameter and an argument?
 q: What is scope?
-q: What is the difference between local and global variables?
 q: Can Python be used for robotics?
 
 

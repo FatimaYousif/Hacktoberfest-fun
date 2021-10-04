@@ -14,8 +14,17 @@ a: var = "variable"
 
 q: How to add multi-line comments in python
 
+
 a: to add multi-line comments, use three """ and write your comment in between.
 ie: 
 """
 multi-line comment
 """
+=======
+a: python doesn't support multi line comments.
+we have to comment each line individually.
+
+
+q: What is the difference between local and global variables?
+a: Local Variables are only acessed in functions or block where they are defined, while global variables can be acessed globally in whole program.
+
