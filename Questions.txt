@@ -234,3 +234,8 @@ hellonice tomeet you
 Qusetion:
 q: What is this (**) operator used for in python 
 Ans: Performs exponential (power) calculation on operators
+
+
+QUESTION 10:
+q: What is this (**) operator used for in python 
+Ans: **kwargs - The special syntax **kwargs in function definitions in python is used to pass a keyworded, variable-length argument list.
