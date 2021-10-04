@@ -166,6 +166,9 @@ Print "HACKERTOBEFEST is AN AMAZING CHALLENGE" in Python.
 
 QUESTION:7
 Mention 3 important advantages of Python.
+1. Improved productivity.
+2. Interpreted Language.
+3. Dynamically Typed.
 
 QUESTION:8
 What IDE do you use for Python?
