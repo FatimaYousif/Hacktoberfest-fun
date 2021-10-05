@@ -28,3 +28,7 @@ we have to comment each line individually.
 q: What is the difference between local and global variables?
 a: Local Variables are only acessed in functions or block where they are defined, while global variables can be acessed globally in whole program.
 
+
+q: What is a variable?
+a: Variable is a container for a particular type of data (like integer, float, String etc...)
+
