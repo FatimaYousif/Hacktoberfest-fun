@@ -5,6 +5,8 @@ Note: Please answer ONLY one question from the unanswered questions in the Answe
 UNANSWERED QUESTIONS:
 
 q: Initilize a variable in python
+Ans: x=5;      // x is for int
+     y="Hello";// y is for string
 q: Take inout from user in python
 q: Make a Python program that prints your name.
 q: Make a program that displays the lyrics of a song.
