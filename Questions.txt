@@ -9,7 +9,6 @@ Ans: x=5;      // x is for int
      y="Hello";// y is for string
 q: Take inout from user in python
 q: Make a Python program that prints your name.
-q: Make a program that displays the lyrics of a song.
 q: Make a program that displays several numbers.
 q: Make a program that solves and shows the summation of 64 + 32.
 q: Make a program that asks the users preferred programming language.
