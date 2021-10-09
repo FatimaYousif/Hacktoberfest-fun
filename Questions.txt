@@ -228,11 +228,15 @@ what is the latest version of Python?
 Ans: Python 3.9.0, documentation released on 5 October 2020.
 hellonice tomeet you
 
-Qusetion:
+Qusetion 13:
 q: What is this (**) operator used for in python 
 Ans: Performs exponential (power) calculation on operators
 
 
-QUESTION 10:
+QUESTION 14:
 q: What is this (**) operator used for in python 
 Ans: **kwargs - The special syntax **kwargs in function definitions in python is used to pass a keyworded, variable-length argument list.
+
+QUESTION 15:
+q: How to add multi-line comments in python 
+Ans: A multi-line comment can be added by using the delimiter (""") on each end of the comment.
