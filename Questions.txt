@@ -10,6 +10,10 @@ Ans: x=5;      // x is for int
 
 q2: Take input from user in python
 q3: Make a Python program that prints your name.
+    print("ENTER YOUR NAME: ")
+    Name = input()
+    print("HEY, ",Name,":):")
+
 q4: Make a program that displays several numbers.
 q5: Make a program that solves and shows the summation of 64 + 32.
 q6: Make a program that asks the users preferred programming language.
