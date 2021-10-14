@@ -4,9 +4,35 @@ Note: Please answer ONLY one question from the unanswered questions in the Answe
 
 UNANSWERED QUESTIONS:
 
-q: Initilize a variable in python
+q1: Initilize a variable in python
 Ans: x=5;      // x is for int
      y="Hello";// y is for string
+
+q2: Take input from user in python
+q3: Make a Python program that prints your name.
+q4: Make a program that displays several numbers.
+q5: Make a program that solves and shows the summation of 64 + 32.
+q6: Make a program that asks the users preferred programming language.
+Answer: language = input()
+        print("Your Choice: " + language)  # OUTPUT: Your Choice: whatever you give input.
+
+or you can write in this way too 
+        language = input("Python or Java: ")
+        print("Your Choice: " + language)  # OUTPUT: Your Choice: Python or 
+                                           # OUTPUT: Your Choice: Java
+
+q7: What is an expression?
+q8: What is a variable?
+q9: What is this (**) operator used for in python 
+Answer: in python this (**) is the exponentiation operator. 
+        It is used to raise the first operand to power of second.
+
+q10: What is a syntax error?
+q11: How to add multi-line comments in python 
+q12: What is the difference between a parameter and an argument?
+q13: What is scope?
+q14: Can Python be used for robotics?
+
 q: Take inout from user in python
 q: Make a Python program that prints your name.
 Ans: name = input("Enter your name: ")
@@ -22,6 +48,7 @@ q: How to add multi-line comments in python
 q: What is the difference between a parameter and an argument?
 q: What is scope?
 q: Can Python be used for robotics?
+
 
 
 ---------------------------------------------------------------------------
