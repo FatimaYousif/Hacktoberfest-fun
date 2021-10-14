@@ -7,6 +7,7 @@ UNANSWERED QUESTIONS:
 q1: Initilize a variable in python
 Ans: x=5;      // x is for int
      y="Hello";// y is for string
+
 q2: Take input from user in python
 q3: Make a Python program that prints your name.
 q4: Make a program that displays several numbers.
@@ -31,6 +32,23 @@ q11: How to add multi-line comments in python
 q12: What is the difference between a parameter and an argument?
 q13: What is scope?
 q14: Can Python be used for robotics?
+
+q: Take inout from user in python
+q: Make a Python program that prints your name.
+Ans: name = input("Enter your name: ")
+            print( name )
+q: Make a program that displays several numbers.
+q: Make a program that solves and shows the summation of 64 + 32.
+q: Make a program that asks the users preferred programming language.
+q: What is an expression?
+q: What is a variable?
+q: What is this (**) operator used for in python 
+q: What is a syntax error?
+q: How to add multi-line comments in python
+q: What is the difference between a parameter and an argument?
+q: What is scope?
+q: Can Python be used for robotics?
+
 
 
 ---------------------------------------------------------------------------
