@@ -7,7 +7,9 @@ UNANSWERED QUESTIONS:
 q: Initilize a variable in python
 Ans: x=5;      // x is for int
      y="Hello";// y is for string
-q: Take inout from user in python
+q: Take input from user in python
+Ans:username = input("Enter username:")
+    print("Username is: " + username)
 q: Make a Python program that prints your name.
 Ans: name = input("Enter your name: ")
             print( name )
