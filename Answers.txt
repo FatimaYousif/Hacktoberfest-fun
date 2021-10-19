@@ -90,3 +90,8 @@ elif percent<0:
    print("percent can't be negative!")
 else:
    print("Something wrong!)
+
+
+q:Is python open source language?
+a: Yes 
+
