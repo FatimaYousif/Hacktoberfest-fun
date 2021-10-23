@@ -100,3 +100,6 @@ a: Syntax error is the most basic type of error in programming. In python and po
 
 q: Take input from user in python
 a:  a=input("Enter your value")
+
+q: What is Expression?
+a: An expression is a combination of values, variables, operators, and calls to functions. Expressions need to be evaluated. If you ask Python to print an expression, the interpreter evaluates the expression and displays the result.
