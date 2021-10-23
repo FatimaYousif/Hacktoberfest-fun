@@ -16,6 +16,13 @@ q3: Make a Python program that prints your name.
 
 q4: Make a program that displays several numbers.
 q5: Make a program that solves and shows the summation of 64 + 32.
+    x = 64
+    y = 32
+    z = x + y
+    print(x)
+    print(y)
+    print(z)
+
 q6: Make a program that asks the users preferred programming language.
 Answer: language = input()
         print("Your Choice: " + language)  # OUTPUT: Your Choice: whatever you give input.
