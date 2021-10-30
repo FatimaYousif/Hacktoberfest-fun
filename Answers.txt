@@ -115,3 +115,7 @@ System.out.Println("Hello world");
 
 q: What is a syntax error?
 a: Error found in the syntax of a sequence of tokens that is intended to be written in compile-time.
+
+q: What is a logical error?
+a: Mistake in a program's source code that results in incorrect or unexpected Behavior is simply a Logical Error.
+
