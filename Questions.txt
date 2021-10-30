@@ -15,7 +15,11 @@ q3: Make a Python program that prints your name.
     print("HEY, ",Name,":):")
 
 q4: Make a program that displays several numbers.
+Ans: for(let i = 0 ; i<=10 ; i++) {console.log("The number is ",i)}
 q5: Make a program that solves and shows the summation of 64 + 32.
+Ans: let a = 64;
+     let b = 32; 
+     console.log( `The sum of a + b is ${a + b} `}
 q6: Make a program that asks the users preferred programming language.
 Answer: language = input()
         print("Your Choice: " + language)  # OUTPUT: Your Choice: whatever you give input.
