@@ -112,3 +112,6 @@ public static void main(String[] args){
 System.out.Println("Hello world");
 }
 }
+
+q: What is a syntax error?
+a: Error found in the syntax of a sequence of tokens that is intended to be written in compile-time.
