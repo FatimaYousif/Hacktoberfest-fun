@@ -163,6 +163,9 @@ QUESTION:5
 Is python indent dependent?
 Ans: yes
 
+QUESTION:6
+What to use for doing Machine Learning via Python?
+Ans: Google Colab
 =======
 QUESTION:1
 Are terminators necessary in Python?
