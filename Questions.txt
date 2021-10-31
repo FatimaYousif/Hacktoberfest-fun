@@ -52,6 +52,7 @@ print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 q: Make a program that asks the users preferred programming language.
 q: What is an expression?
 q: What is a variable?
+q: Do we have limit in specifying parameters in python?
 q: What is this (**) operator used for in python 
 q: What is a syntax error?
 q: How to add multi-line comments in python
