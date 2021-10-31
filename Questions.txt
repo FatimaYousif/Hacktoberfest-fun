@@ -279,3 +279,7 @@ Ans: **kwargs - The special syntax **kwargs in function definitions in python is
 QUESTION 15:
 q: How to add multi-line comments in python 
 Ans: A multi-line comment can be added by using the delimiter (""") on each end of the comment.
+
+QUESTION 16:
+q: What is scope
+Ans:  Accessibility of the Python Object.
