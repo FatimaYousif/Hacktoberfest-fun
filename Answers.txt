@@ -35,7 +35,7 @@ a: Variable is a container for a particular type of data (like integer, float, S
 q: What is the difference between a parameter and an argument?
 - parameters are the name within the function definition.
 - Parameters don’t change when the program is running
-
+- Parameters don't necessarily be always defined in python
 - Arguments are the values passed in when the function is called.
 - Arguments are probably going to be different every time the function is called.
 
